@@ -45,7 +45,7 @@ This landing page is designed for The Metropolitan Museum of Art (MET). It provi
 
 ## Demo
 
-Experience the MET Museum Landing Page demo [here](https://amashutikov.github.io/layout_THE_MET/).
+Experience the MET Museum Landing Page demo [here](https://amashutikov.github.io/THE_MET_Layout/).
 
 ## Author
 
